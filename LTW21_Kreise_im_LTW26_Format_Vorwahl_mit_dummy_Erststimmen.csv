@@ -2371,7 +2371,7 @@ Wahlkreisnummer;Wahlkreisname;AGS;Gemeindename;Gebietsnummer;Gebietsart;Gebietsn
 14;Bietigheim-Bissingen;08118079;Bietigheim-Bissingen, Stadt;08118079-900-08;BRIEFWAHLBEZIRK;900-08 Briefwahl VIII;900-08;0;1;;;N;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;0;0;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 14;Bietigheim-Bissingen;08118079;Bietigheim-Bissingen, Stadt;08118079-900-09;BRIEFWAHLBEZIRK;900-09 Briefwahl IX;900-09;0;1;;;N;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;0;0;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 14;Bietigheim-Bissingen;08118079;Bietigheim-Bissingen, Stadt;08118079-900-10;BRIEFWAHLBEZIRK;900-10 Briefwahl X;900-10;0;1;;;N;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;0;0;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-15;Waiblingen;;;15;WAHLKREIS;Waiblingen;;0;142;;;N;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;0;0;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+15;Waiblingen;;;15;WAHLKREIS;Waiblingen;;0;142;;;N;400;0;0;0;0;0;0;0;300;0;0;0;0;36;0;;;;0;0;;;;;;53;0;300;0;0;0;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73;0
 15;Waiblingen;08119020;Fellbach, Stadt;08119020;GEMEINDE;Fellbach, Stadt;;0;43;;;N;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;0;0;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 15;Waiblingen;08119020;Fellbach, Stadt;08119020-001-15;URNENWAHLBEZIRK;Stadtteil- und Familienzentrum;001-15;0;1;;;N;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;0;0;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 15;Waiblingen;08119020;Fellbach, Stadt;08119020-001-18;URNENWAHLBEZIRK;Stadtteil- und Familienzentrum;001-18;0;1;;;N;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;;;0;0;;;;;;;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
